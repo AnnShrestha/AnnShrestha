@@ -5,12 +5,17 @@ Annan Shrestha's GitHub Profile
 Hello! I'm Annan Shrestha, a passionate individual with a strong interest in Geographic Information Systems (GIS) and Cartography. I am currently pursuing a Master's degree in GIS and Cartography at Clark University. Prior to this, I completed my Master's degree in Environmental Science, which has given me a solid foundation in understanding the environmental implications of spatial data and mapping techniques.
 
 **✒️ Education**
+
 Clark University
+
 Degree: Master's in GIS and Cartography
+
 Expected Graduation: 2026
 
 Tribhuvan University
+
 Degree: Master's in Environmental Science
+
 Graduation Year: 2022
 
 **🔧 Skills and Tools**
