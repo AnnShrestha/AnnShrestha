@@ -21,8 +21,11 @@ Graduation Year: 2022
 **🔧 Skills and Tools**
 
 Programming Languages: Python
+
 GIS Tools: QGIS, ArcGIS Pro, ArcMap, Google Earth Engine, TerrSet
+
 Data Visualization: Seaborn, Plotly 
+
 Geospatial Analysis: Spatial statistics, Remote Sensing, Cartography
 
 **🔭 Projects and Research**
