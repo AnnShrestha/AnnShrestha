@@ -13,12 +13,14 @@ Degree: Master's in Environmental Science
 Graduation Year: 2022
 
 **🔧 Skills and Tools**
+
 Programming Languages: Python
 GIS Tools: QGIS, ArcGIS Pro, ArcMap, Google Earth Engine, TerrSet
 Data Visualization: Seaborn, Plotly 
 Geospatial Analysis: Spatial statistics, Remote Sensing, Cartography
 
 **🔭 Projects and Research**
+
 ●	Flood Inundation mapping and overland flow modelling of West Rapti River Basin, 2024
 ●	GIS and RS Based Spatial Mapping of of Bethanchowk Rural Municipality, Kavrepalacnhok. 2024
 ●	Study of Soil Erosion. Landslides and Hazard Mapping as Well as Profiling in Gandaki Province, 2021
@@ -28,6 +30,7 @@ Geospatial Analysis: Spatial statistics, Remote Sensing, Cartography
 
 
 🌍 Areas of Interest
+
 Disater Management
 Climate Change Impact Analysis
 Spatial Data Science
