@@ -31,18 +31,26 @@ Geospatial Analysis: Spatial statistics, Remote Sensing, Cartography
 **🔭 Projects and Research**
 
 ●	Flood Inundation mapping and overland flow modelling of West Rapti River Basin, 2024
+
 ●	GIS and RS Based Spatial Mapping of of Bethanchowk Rural Municipality, Kavrepalacnhok. 2024
+
 ●	Study of Soil Erosion. Landslides and Hazard Mapping as Well as Profiling in Gandaki Province, 2021
+
 ●	Multi-hazard Analysis and Vulnerability Mapping in Sindhupalchowk District, Bagmati Province Using GIS (Frequency Ration and AHP Method), 2021.
+
 ●	Environmental Impact Assessment of BHAKARI Activities Under Mercy Corps Nepal. Funded by USAID, 2022. 
+
 ●	Project Document for the Proposed Project’s Nature Based Solutions (Nbs) for Resilient Lower Narayani Basin in Nepal (WWF), 2023 
 
 
 🌍 Areas of Interest
 
 Disater Management
+
 Climate Change Impact Analysis
+
 Spatial Data Science
+
 Remote Sensing and Earth Observation
 
 [![MyLinkedIn](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/annan-shrestha/)
