@@ -1,4 +1,4 @@
-                                                                          Annan Shrestha's GitHub Profile
+                                                        **  Annan Shrestha's GitHub Profile**
 
 **👋 About Me!**
 
