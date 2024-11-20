@@ -6,9 +6,10 @@ Hello! I'm Annan Shrestha, a passionate individual with a strong interest in Geo
 
 **✒️ Education**
 
+Degree: Master's in GIS and Cartography
 Clark University
 
-Degree: Master's in GIS and Cartography
+
 
 Expected Graduation: 2026
 
