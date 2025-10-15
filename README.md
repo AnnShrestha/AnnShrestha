@@ -1,59 +1,73 @@
-                                                        **Annan Shrestha's GitHub Profile**
+<!-- Annan Shrestha's GitHub Profile README -->
 
-**👋 About Me!**
+<h1 align="center">🌏 Annan Shrestha</h1>
+<p align="center">
+  <em>Master's Student in GIS & Cartography | Cartographer | Spatial Data Enthusiast</em>
+</p>
 
-Hello! I'm Annan Shrestha, a passionate individual with a strong interest in Geographic Information Systems (GIS) and Cartography. I am currently pursuing a Master's degree in GIS and Cartography at Clark University. Prior to this, I completed my Master's degree in Environmental Science, which has given me a solid foundation in understanding the environmental implications of spatial data and mapping techniques.
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-Annan%20Shrestha-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/annan-shrestha/">View Profile</a>
+  &nbsp;|&nbsp;
+  <img src="https://img.shields.io/badge/Google-Scholar-blue?logo=google-scholar&style=flat-square" alt="Google Scholar">
+  <a href="https://scholar.google.com/citations?user=YOUR_USER_ID_HERE">Google Scholar</a>
+</p>
 
-**✒️ Education**
+---
 
-Degree: Master's in GIS and Cartography
+## 👋 About Me
 
-Clark University
+Hi there! I'm **Annan Shrestha**, with a passion for **Geographic Information Systems (GIS)** and **Cartography**. Currently, I'm pursuing a **Master's in GIS & Cartography** at Clark University, blending geospatial technology and environmental science to solve real-world challenges.
 
-Expected Graduation: 2026
+---
 
-Tribhuvan University
+## 🎓 Education
 
-Degree: Master's in Environmental Science
+- **Clark University**  
+  _Master's in GIS & Cartography_  
+  <sub>Expected Graduation: 2026</sub>
 
-Graduation Year: 2022
+- **Tribhuvan University**  
+  _Master's in Environmental Science_  
+  <sub>Graduated: 2022</sub>
 
-**🔧 Skills and Tools**
+---
 
-Programming Languages: Python
+## 🛠️ Skills & Tools
 
-GIS Tools: QGIS, ArcGIS Pro, ArcMap, Google Earth Engine, TerrSet
+- **Programming:** Python
+- **GIS Tools:** QGIS, ArcGIS Pro, ArcMap, Google Earth Engine, TerrSet
+- **Data Visualization:** Seaborn, Plotly
+- **Geospatial Analysis:** Spatial Statistics, Remote Sensing, Cartography
 
-Data Visualization: Seaborn, Plotly 
+---
 
-Geospatial Analysis: Spatial statistics, Remote Sensing, Cartography
+## 🔬 Projects & Research
 
-**🔭 Projects and Research**
+- 🗺️ **Flood Inundation Mapping & Overland Flow Modelling** — West Rapti River Basin, 2024  
+- 🌄 **GIS & RS Based Spatial Mapping** — Bethanchowk Rural Municipality, Kavrepalanchok, 2024  
+- 🏞️ **Soil Erosion, Landslides & Hazard Mapping** — Gandaki Province, 2021  
+- 📊 **Multi-hazard & Vulnerability Analysis** — Sindhupalchowk, Bagmati Province (Frequency Ratio & AHP Method), 2021  
+- 🌱 **EIA of BHAKARI Activities** — Mercy Corps Nepal (USAID), 2022  
+- 🌳 **Nature-Based Solutions for Resilient Lower Narayani Basin** — WWF, 2023  
 
-●	Flood Inundation mapping and overland flow modelling of West Rapti River Basin, 2024
+---
 
-●	GIS and RS Based Spatial Mapping of of Bethanchowk Rural Municipality, Kavrepalacnhok. 2024
+## 🌟 Interests
 
-●	Study of Soil Erosion. Landslides and Hazard Mapping as Well as Profiling in Gandaki Province, 2021
+- Disaster Management
+- Climate Change Impact Analysis
+- Spatial Data Science
+- Remote Sensing & Earth Observation
 
-●	Multi-hazard Analysis and Vulnerability Mapping in Sindhupalchowk District, Bagmati Province Using GIS (Frequency Ration and AHP Method), 2021.
+---
 
-●	Environmental Impact Assessment of BHAKARI Activities Under Mercy Corps Nepal. Funded by USAID, 2022. 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnnShrestha&show_icons=true&theme=radical" alt="Ann's GitHub Stats" />
+</p>
 
-●	Project Document for the Proposed Project’s Nature Based Solutions (Nbs) for Resilient Lower Narayani Basin in Nepal (WWF), 2023 
+---
 
-
-🌍 Areas of Interest
-
-Disater Management
-
-Climate Change Impact Analysis
-
-Spatial Data Science
-
-Remote Sensing and Earth Observation
-
-[![MyLinkedIn](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/annan-shrestha/)
-
-[![Google Scholar](https://img.shields.io/badge/Google-scholar-blue)](https://img.shields.io/github/repo-size/AnnShrestha/AnnClark)
-
+<p align="center">
+  <b>Let's connect and collaborate on impactful geospatial projects!</b>
+</p>
